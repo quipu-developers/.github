@@ -1,21 +1,17 @@
 # Welcome to Quipu!
 
-Quipu는 서울시립대학교 컴퓨터 학술 중앙동아리로, 기획·개발·운영 경험을 함께 쌓는 개발 커뮤니티입니다.
+Quipu는 서울시립대학교를 대표하는 컴퓨터 중앙동아리로, IT의 다양한 분야를 도전적으로 탐구하며 실전 경험과 인사이트를 함께 확장해 나갑니다.
 
 ## About
 
-Quipu Developers GitHub Organization은 동아리의 프로젝트 소스 코드를 관리하는 공간입니다.  
-동아리의 메인 웹 사이트 그리고 어드민 웹 사이트 등 실제 사용자에게 제공되는 서비스를 지속적으로 개선하고 운영합니다.
+Quipu Organization은 동아리의 공식 프로젝트와 운영 자료를 아카이브하고 공유하는 공간입니다.  
+기술을 배우는 데서 멈추지 않고, 기획부터 구현·운영까지 이어지는 전 과정을 통해 문제 해결 역량과 협업 경험을 축적합니다.
 
-## Services
+## Official Website
 
-- Quipu Main Web: 동아리 소개, 모집 안내, 활동 기록 등 Quipu의 공식 정보를 제공하는 메인 웹서비스입니다.  
+- Quipu Main Web: 동아리 소개, 모집 안내, 활동 기록 등 Quipu의 공식 정보를 제공하는 홈페이지입니다.  
   Service: <https://quipu.uos.ac.kr>  
   Repository: <https://github.com/quipu-developers/main>
-
-- Quipu Web Game: 실시간 멀티플레이 기반으로 진행되는 Quipu의 웹게임 서비스입니다.  
-  Service: <https://game.quipu.uos.ac.kr>  
-  Repository: <https://github.com/quipu-developers/battleground>
 
 ## Contact
 
