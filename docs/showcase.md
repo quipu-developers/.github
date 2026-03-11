@@ -15,7 +15,7 @@ QUIPU의 2024 공식 웹사이트로, 동아리의 첫인상을 전달하는 메
 - Database: MySQL
 
 ### Links
-- Service: <https://quipu-main-2024.vercel.app/>
+- Service: <https://quipu-main-2024.vercel.app>
 - GitHub: <https://github.com/quipu-uos/main-2024>
 
 ### Highlights
@@ -24,8 +24,9 @@ QUIPU의 2024 공식 웹사이트로, 동아리의 첫인상을 전달하는 메
 - 이벤트 기간에는 룰렛 기능을 추가해 참여형 경험 확장
 
 ### Gallery
-![QUIPU Main Web - Main](https://raw.githubusercontent.com/quipu-uos/main-2024/main/frontend/public/thumbnail.png)
-![QUIPU Main Web - Showcase](https://raw.githubusercontent.com/quipu-uos/main-2024/main/frontend/public/ShowcaseMain-img/%ED%80%B4%ED%91%B8%EB%A9%94%EC%9D%B8%EC%9B%B9.png)
+<img width="1920" height="1080" alt="스크린샷 2026-03-11 오후 8 57 50" src="https://github.com/user-attachments/assets/1eca5ebd-3f1b-496b-ae7b-66bc6cc3cea3" />
+<img width="1920" height="1080" alt="스크린샷 2026-03-11 오후 8 58 37" src="https://github.com/user-attachments/assets/8074229f-956a-483f-b7f7-8849e85c9c53" />
+<img width="1920" height="1080" alt="스크린샷 2026-03-11 오후 8 59 08" src="https://github.com/user-attachments/assets/1d14b7c5-bed5-4a7c-a59a-2216f03b410e" />
 
 ### Subproject: Roulette Event in QUIPU Main Web
 
