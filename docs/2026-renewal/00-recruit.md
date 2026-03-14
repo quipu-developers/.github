@@ -1,4 +1,4 @@
-# QUIPU Renewal Project (2026)
+# QUIPU Renewal Project Recruit
 
 ## Overview
 QUIPU Renewal Project는 **QUIPU Main Web 2025**와 **QUIPU Admin Web**를 함께 개선하는 단기 리뉴얼 프로젝트입니다.  

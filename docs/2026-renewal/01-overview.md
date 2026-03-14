@@ -1,6 +1,6 @@
-# QUIPU Renewal Project 운영 상세 안내
+# QUIPU Renewal Project Overview
 
-본 문서는 `00-recruit.md` 내용을 기반으로, 팀 공통 실행 기준을 명확히 하기 위해 작성되었습니다.  
+본 문서는 팀 공통 실행 기준을 명확히 하기 위해 작성되었습니다.  
 프로젝트 참여 인원은 아래 항목을 사전에 숙지하고 동일한 원칙으로 진행해주시기 바랍니다.
 
 ---
@@ -44,7 +44,7 @@ QUIPU Renewal Project는 기존 QUIPU 서비스의 운영 효율성과 확장성
 
 ---
 
-## 4. 운영 원칙 (사전 공지 사항)
+## 4. 운영 원칙
 
 1. 본 프로젝트는 PM이 모든 과정을 단계별로 직접 안내하는 방식으로 운영하지 않습니다.
 2. 이슈 발생 시, 우선 ChatGPT/Gemini/검색 등을 활용하여 자율적으로 해결을 시도해야 합니다.
@@ -112,7 +112,7 @@ Git/GitHub 경험이 부족한 팀원은 아래 범위까지만 가볍게 사전
 1. 담당 파트 작업 시작 전, 해당 작업에 대한 **Issue를 먼저 등록**합니다.
 2. 개인 브랜치에서 구현 후, 완료 기능을 기준으로 `develop` 브랜치 대상 **Pull Request(PR)** 를 생성합니다.
 3. **PM 1인 + 팀원 2인 이상 승인(approve)** 후 병합(merge)합니다.
-4. Commit message / Issue / PR 작성 시 반드시 `CONTRIBUTING.md` 기준을 준수합니다.
+4. Commit message / Issue / PR 작성 시 반드시 프로젝트 내 `CONTRIBUTING.md` 기준을 준수합니다.
 
 ### 8.1 CONTRIBUTING.md 준수 항목(요약)
 
